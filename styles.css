@@ -5,6 +5,7 @@ body{
     background-color: rgb(243, 243, 243);
 }
 
+/* Navbar */
 .navbar{
     display: flex;
     align-items: flex-start;
@@ -63,13 +64,13 @@ body{
     cursor: pointer;
 }
 
+/* Main Content */
 .content{
     display: flex;
     align-items:center;
     justify-content: space-between;
     margin-top: 50px;
 }
-
 
 .content .text{
     font-family: 'Merriweather', serif;
@@ -118,7 +119,7 @@ body{
     margin-top: 25px;
 }
 
-/* Indicator */
+/* Indicator on the right */
 
 .indicator{
     display: flex;
@@ -163,7 +164,7 @@ body{
     display: inline;
 }
 
-/* pill and other shapes */
+/* pills and other shapes */
 .pill{
     width: 200px;
     height: 97px;
