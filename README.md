@@ -41,7 +41,8 @@ The Flexbox Layout Module allows the creation of a responsive webpage without us
 10) text-align
 
 ## Output:
-![output](https://user-images.githubusercontent.com/86312806/132137152-a30e135e-55ce-4c22-9c1f-6826a02382ca.png)
+
+![output](https://user-images.githubusercontent.com/86312806/132137452-c9bbec86-e264-4d59-9af2-53d734e602d5.png)
 
 #### Button Hover Effect:
 
